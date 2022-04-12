@@ -1,0 +1,45 @@
+2022-04-12 08:11:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COUNTRIES" not found; SQL statement:
+select countries0_.id as id1_0_, countries0_.name as name2_0_ from countries countries0_ [42102-200]
+2022-04-12 08:13:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COUNTRIES" not found; SQL statement:
+select countries0_.id as id1_0_, countries0_.name as name2_0_ from countries countries0_ [42102-200]
+2022-04-12 08:14:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COUNTRIES" not found; SQL statement:
+select countries0_.id as id1_0_, countries0_.name as name2_0_ from countries countries0_ [42102-200]
+2022-04-12 08:16:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COUNTRIES" not found; SQL statement:
+select countries0_.id as id1_0_, countries0_.name as name2_0_ from countries countries0_ [42102-200]
+2022-04-12 08:18:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COUNTRIES" not found; SQL statement:
+select countries0_.id as id1_0_, countries0_.name as name2_0_ from countries countries0_ [42102-200]
+2022-04-12 08:21:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COUNTRIES" not found; SQL statement:
+select countries0_.id as id1_0_0_, countries0_.name as name2_0_0_ from countries countries0_ where countries0_.id=? [42102-200]
+2022-04-12 08:23:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COUNTRIES" not found; SQL statement:
+select country0_.id as id1_0_0_, country0_.name as name2_0_0_ from countries country0_ where country0_.id=? [42102-200]
+2022-04-12 08:26:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COUNTRIES" not found; SQL statement:
+select country0_.id as id1_0_0_, country0_.name as name2_0_0_ from countries country0_ where country0_.id=? [42102-200]
+2022-04-12 08:27:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COUNTRIES" not found; SQL statement:
+select country0_.id as id1_0_0_, country0_.name as name2_0_0_ from countries country0_ where country0_.id=? [42102-200]
+2022-04-12 09:12:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ITEMS" not found; SQL statement:
+insert into items (id, count, deal_time, name, price, time) values (default, ?, ?, ?, ?, ?) [42102-200]
+2022-04-12 09:19:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ITEMS" not found; SQL statement:
+insert into items (id, count, deal_time, name, price) values (default, ?, ?, ?, ?) [42102-200]
+2022-04-12 09:22:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ITEMS" not found; SQL statement:
+insert into items (id, count, deal_time, name, price) values (default, ?, ?, ?, ?) [42102-200]
+2022-04-12 09:23:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ITEMS" not found; SQL statement:
+insert into items (id, count, deal_time, name, price) values (default, ?, ?, ?, ?) [42102-200]
+2022-04-12 09:37:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ITEMS" not found; SQL statement:
+insert into items (id, count, deal_time, name, price) values (default, ?, ?, ?, ?) [42102-200]
+2022-04-12 09:37:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ITEMS" not found; SQL statement:
+insert into items (id, count, deal_time, name, price) values (default, ?, ?, ?, ?) [42102-200]
